@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-DragRacerGame-0.1.0";
 const contentToCache = [
-    "Build/OriginAR.loader.js",
-    "Build/OriginAR.framework.js",
-    "Build/OriginAR.data",
-    "Build/OriginAR.wasm",
+    "Build/DragRace6OPAR.loader.js",
+    "Build/DragRace6OPAR.framework.js",
+    "Build/DragRace6OPAR.data",
+    "Build/DragRace6OPAR.wasm",
     "TemplateData/style.css"
 
 ];
